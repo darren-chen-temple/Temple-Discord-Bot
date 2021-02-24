@@ -37,9 +37,9 @@ spiritual successor to the Temple Covid Cases bot, complete with some new additi
 
 #### _Building_
 - Basic Overview for Creating a Discord Bot in Java: https://www.writebots.com/how-to-make-a-discord-bot/#Java_Coding_Your_Discord_Bot_in_a_Robust_Popular_Language
-- Using IntelliJ IDE and including the library/wrapper JavaCord or Discord4J (respectively)
+- Using IntelliJ IDE and including the library/wrapper JavaCord or Discord4J (respectively) OR this Java Discord API created by the folks at https://github.com/DV8FromTheWorld/JDA 
 - Alternatively, can be done in Python: https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-the-developer-portal
-- Essentially, creating a Discord developer account, and using the discord.py Python library to import Discord APIs
+- Essentially, creating a Discord developer account, and using the discord.py (Discord's Python API)
 
 
 #### _Running_
