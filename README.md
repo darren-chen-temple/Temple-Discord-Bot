@@ -8,7 +8,7 @@ tweets, or even track the active COVID-19 cases on campus! It even delivers TUAl
 Temple-related information in one place!
 
 ### Diagram
-![Basic diagram of the Temple Discord Bot architecture](DarrenChen_TempleDiscordBot.png)
+![Basic diagram of the Temple Discord Bot architecture](TempleDiscordBot.png)
 
 ## Project Relevance
 This project will demonstrate the practical application of Object Oriented Design (if done in Java), and due to the
