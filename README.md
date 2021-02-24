@@ -8,7 +8,7 @@ tweets, or even track the active COVID-19 cases on campus! It even delivers TUAl
 Temple-related information in one place!
 
 ### Diagram
-![Basic diagram of the Temple Discord Bot architecture](TempleDiscordBot.png)
+![Temple Discord Bot UML Diagram](https://user-images.githubusercontent.com/70285006/109034182-61538400-7695-11eb-9173-61587b104cf4.png)
 
 ## Project Relevance
 This project will demonstrate the practical application of Object Oriented Design (if done in Java), and due to the
@@ -47,7 +47,10 @@ spiritual successor to the Temple Covid Cases bot, complete with some new additi
 to user input
   
 
-#### _Notes and Suggested Additional Features:_
-- menu (a !help function?)
-- registration dates, Temple bulletin
+## Notes and Suggested Additional Features:
+- menu (a !help function)
+- information on registration dates, Temple bulletin
 - links to contact info, etc
+
+## Whiteboard Presentation Slide
+![Temple Discord Bot Whiteboard Presentation](https://user-images.githubusercontent.com/70285006/109034677-e2128000-7695-11eb-8358-90e15351748e.png)
