@@ -47,7 +47,7 @@ spiritual successor to the Temple Covid Cases bot, complete with some new additi
 to user input
   
 
-Notes:
+#### _Notes and Suggested Additional Features:_
 - menu (a !help function?)
 - registration dates, Temple bulletin
 - links to contact info, etc
